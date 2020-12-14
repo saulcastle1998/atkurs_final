@@ -1,0 +1,399 @@
+@charset "utf-8";
+.btnVerde{
+  background-color: #1D3060;
+  color: #fff;
+}
+.imagen {
+  margin-left: 120px;
+  align-content: center;
+  margin-top: 80px;
+}
+#triangles{
+
+    margin-bottom: 70px;
+    margin-top: 70px;
+
+}
+#parrafo{
+
+  border-style: solid;
+    /* border: 10px; */;
+    border-color: #006080;
+    width: 100%;
+    border-size: initial;
+    border-radius: 25px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    padding: 22px;
+  border-width:thick;
+}
+hr{
+ 
+  border-color: #E35D67;
+ 
+
+
+}
+
+.misiontext {
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: left;
+    color: white;
+}
+
+
+
+h1,h2,h3,h6{
+  font-family: 'Amatic SC', cursive;
+}
+
+
+.carousel-caption{
+  display: grid;
+  align-items: center;
+  height: 100%;
+  text-align: left;
+  
+}
+
+.carousel-caption h2{
+font-size: 53px;
+  
+    font-weight: bolder;
+
+}
+
+.carousel-caption p{
+  color: #fff;
+  font-size: 20px;
+}
+.cursos p{
+  
+  
+  font-size: 20px;
+  color:#FFFFFF;
+}
+
+.cursos h2{
+  color: #fff;
+}
+
+/* CSS Document */
+.textBox{
+       padding: 3% 10% 4% 12%;
+    }
+#hero {
+    background-color: #1d2f61;
+}
+
+.conocenosTitulos {
+    font-family: 'Amatic SC', cursive;
+    text-align: left;
+    font-size: 500%;
+    color: white;
+}
+
+
+
+#hero2 {
+    background-color: #026181;
+}
+
+#vision {
+    font-family: 'Amatic SC', cursive;
+    text-align: right;
+    font-size: 500%;
+    color: white;
+}
+
+#whichis {
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: right;
+    color: white;
+}
+
+#hero3 {
+    background-color: #e55d69;
+}
+
+#lista {
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: left;
+    color: white;
+    font-size: 160%;
+}
+
+#hero2 h3 {
+    text-align: left;
+}
+
+#hero2 h1 {
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+nav{
+background-color: #1D3060;
+}
+#villain{
+   
+     background: url("../img/section1.svg");
+       background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-fluid{
+}
+
+.Titulo1{
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    text-align: right;
+    font-size: 400%;
+}
+.Subtitulo1{
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: right !important;
+     color: #1d3060 !important;
+}
+.Subtitulo2{
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: left;
+
+}
+.Subtitulo3{
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: left;
+    color: white;
+}
+.articlesGrid{
+    padding-right:  10%;
+     padding-left:   10%;
+      padding-top:  5%;
+       padding-bottom:   5%;
+}
+.articlesGrid2{
+     padding-left:   10%;
+      
+}
+
+header {
+    background-color: #1d3060;
+    padding: 30px;
+}
+
+footer {
+    background-color: #006080;
+    padding: 40px;
+}
+
+footer p {
+    color: #fff;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 15px;
+}
+
+footer h4 {
+    font-size: 17px;
+    color: #fff;
+    font-weight: 400;
+}
+
+#joven2{
+    background-color: #E35D67;
+    text-align: left;
+    border: 0px;
+    padding: 0;
+    font-family: 'Amatic SC', cursive;
+}
+
+#joven2 p{
+    color: #FFFFFF;
+    margin-top: 30px;
+
+}
+
+.imagentriangular {
+    padding: 0px;
+    margin: 0;
+    border: 0;
+    height: 30;
+}
+
+
+#joven3{
+    text-align: left;
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #1D3060;
+    
+}
+.btn-primary {
+    color: #fff;
+    background-color: #006080 !important;
+    border-color: #006080 !important;
+}
+
+#joven3 h1{
+    color: #1D3060;
+}
+
+#joven3 p{
+    color:#FFFFFF;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 22px;
+    padding-top: 20px;
+}
+.titulo {
+  font-family: 'Amatic SC', cursive;
+    background-color: #FFFFFF;
+    padding: 5%;
+    border-radius: 0px 0px 106px 0px;
+    -moz-border-radius: 0px 0px 106px 0px;
+    -webkit-border-radius: 0px 0px 64px 0px;
+    border: 0px solid #000000;
+    width: 105.5%;
+    position: relative;
+}
+@charset "utf-8";
+
+
+ .Titulo3 {
+    font-family: 'Amatic SC', cursive;
+    color: white;
+    font-size: 400%;
+}
+
+.Img_ofertaEducativa{
+opacity: 70%;
+ }
+#ofertaEducativa{
+    background-color: #1D3060;
+}
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+
+.btn-xl {
+  padding: 1.25rem 2.5rem;
+}
+
+.content-section {
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+}
+
+.content-section-heading h2 {
+  font-size: 3rem;
+}
+
+.content-section-heading h3 {
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+
+.formulario {
+margin-left: 0rem !important; 
+
+    }
+
+.text-faded {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+
+.ofertaEducativa-item {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  max-width: 530px;
+  margin: auto auto 1rem;
+}
+
+.ofertaEducativa-item .caption {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(33, 37, 41, 0.2);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
+.ofertaEducativa-item .caption .caption-content {
+  color: #fff;
+  margin: auto 2rem 2rem;
+}
+
+.ofertaEducativa-item .caption .caption-content h2 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.ofertaEducativa-item .caption .caption-content p {
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+
+@media (min-width: 992px) {
+  .ofertaEducativa-item {
+    max-width: none;
+    margin: 0;
+  }
+  .ofertaEducativa-item .caption {
+    transition: background-color 0.7s, -webkit-clip-path 0.25s ease-out;
+    transition: clip-path 0.25s ease-out, background-color 0.7s;
+    transition: clip-path 0.25s ease-out, background-color 0.7s, -webkit-clip-path 0.25s ease-out;
+    -webkit-clip-path: inset(0px);
+    clip-path: inset(0px);
+  }
+  .ofertaEducativa-item .caption .caption-content {
+    transition: opacity 0.25s;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-bottom: 5rem;
+  }
+  .ofertaEducativa-item img {
+    transition: -webkit-clip-path 0.25s ease-out;
+    transition: clip-path 0.25s ease-out;
+    transition: clip-path 0.25s ease-out, -webkit-clip-path 0.25s ease-out;
+    -webkit-clip-path: inset(-1px);
+    clip-path: inset(-1px);
+  }
+  .ofertaEducativa-item:hover img {
+    -webkit-clip-path: inset(2rem);
+    clip-path: inset(2rem);
+  }
+  .ofertaEducativa-item:hover .caption {
+    background-color: #006080;
+    -webkit-clip-path: inset(2rem);
+    clip-path: inset(2rem);
+  }
+}
+
+
+a {
+  color: #1D809F;
+}
+
+a:hover, a:focus, a:active {
+  color: #155d74;
+}
+
+

@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+nav{
+background-color: #1D3060;
+}
+header {
+    background-color: #1d3060;
+    padding: 30px;
+}
+
+footer {
+    background-color: #006080;
+    padding: 40px;
+}
+
+footer p {
+    color: #fff;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 15px;
+}
+
+footer h4 {
+    font-size: 17px;
+    color: #fff;
+    font-weight: 400;
+}
+#hero {
+    background-color: #1d2f61;
+    color: white;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    text-align: left;
+    font-size: 500%;
+    color: white;
+    padding-top: 50px;
+}
+
+h3 {
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: left;
+    color: #ffffff;
+    font-size: 300%;
+}
+
+label {
+    font-weight: 500;
+    padding-left: 15px;
+}
+
+#registrate {
+    background-image: url(../img/atkurs_registro_iniciar-sesion2-01.png);
+    background-position: center;
+    background-size: cover;
+    padding-top: 40px;
+}
+
+.btn-primary {
+    background-color: #1d2f61;
+    padding: 20px 30px;
+    margin-left: 500px;
+    margin-top: 20px;
+    border-radius: 30px;
+    border-color: transparent;
+}
+
+.btn-primary:hover {
+    background-color: transparent;
+    color: #1d2f61;
+}
+
+input[type=text] {
+    background-color: #e0dfdf;
+    border: none;
+}
+
+input[type=email] {
+    background-color: #e0dfdf;
+    border: none;
+}
+
+input[type=tel] {
+    background-color: #e0dfdf;
+    border: none;
+}
+
+input[type=password] {
+    background-color: #e0dfdf;
+    border: none;
+}
